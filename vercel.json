@@ -14,7 +14,7 @@
     "APP_ENV": "production",
     "APP_DEBUG": "true",
 "APP_URL": "https://vercel.com/eyas-projects-a2460519",
-"APP_KEY": "add API key here from your .env file",
+"APP_KEY": "base64:UQAH0RupyUsb4iupJ5H+5h6oQmbWf1DUD6IW7tDthd0=",
 "APP_CONFIG_CACHE": "/tmp/config.php",
 "APP_EVENTS_CACHE": "/tmp/events.php",
 "APP_PACKAGES_CACHE": "/tmp/packages.php",
